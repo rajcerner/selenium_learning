@@ -27,5 +27,8 @@
 	<classpathentry kind="lib" path="ResourceLibs/selenium-java-2.53.1.jar"/>
 	<classpathentry kind="lib" path="ResourceLibs/testng-6.9.13.6.jar"/>
 	<classpathentry kind="lib" path="ResourceLibs/testng-6.9.9.jar"/>
+	<classpathentry kind="lib" path="ResourceLibs/extentreports-2.40.2.jar"/>
+	<classpathentry kind="lib" path="ResourceLibs/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="ResourceLibs/jsoup-1.8.3.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

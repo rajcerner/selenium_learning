@@ -1,0 +1,9 @@
+<span class="token function">config</span>
+<span class="token punctuation">(</span>
+<span class="token keyword">new</span>
+<span class="token class-name">ORN_VR_PatientSearch</span>
+<span class="token punctuation">(</span>
+<span class="token string">"/Users/jk048034/Desktop/POMModel/OrionProjects1/src/platformUtility/extent-config.xml"</span>
+<span class="token punctuation">)</span>
+<span class="token punctuation">)</span>
+<span class="token punctuation">;</span>
